@@ -42,7 +42,7 @@
 |39 | [UVA10242](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1183) | [Fourth Point!!](UVA10242%20-%20Fourth%20Point!!) | [連結](UVA10242%20-%20Fourth%20Point!!/main.c) | X | X | X |
 |40 | [UVA10057](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=998) | [A mid-summer night’s dream](UVA10057%20-%20A%20mid-summer%20night’s%20dream) | X | X | X | X |
 |41 | [UVA10062](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1003) | [Tell me the frequencies!](UVA10062%20-%20Tell%20me%20the%20frequencies!) | X | X | X | X |
-|42 | [UVA299](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=235) | [Train Swapping](UVA299%20-%20Train%20Swapping) | X | X | X | X |
+|42 | [UVA299](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=235) | [Train Swapping](UVA299%20-%20Train%20Swapping) | [連結](UVA299%20-%20Train%20Swapping/main.c) | X | X | X |
 |43 | [UVA10226](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1167) | [Hardwood Species](UVA10226%20-%20Hardwood%20Species) | X | X | X | X |
 |44 | [UVA10189](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130) | [Minesweeper](UVA10409%20-%20Minesweeper) | X | X | X | X |
 |45 | [UVA10409](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1350) | [Die Game](%20-%20Die%20Game) | X | X | X | X |
