@@ -20,7 +20,7 @@
 |17 | [UVA10170](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1111) | [The Hotel with Infinite Rooms](UVA10170%20-%20The%20Hotel%20with%20Infinite%20Rooms) | [連結](UVA10170%20-%20The%20Hotel%20with%20Infinite%20Rooms/main.c) | X | X | X |
 |18 | [UVA10268](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=14&page=show_problem&problem=1209) | [498’](UVA10268%20-%20498’) | X | X | X | X |
 |19 | [UVA10783](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1724) | [Odd Sum](UVA10783%20-%20Odd%20Sum) | [連結](UVA10783%20-%20Odd%20Sum/main.c) | X | X | X |
-|20 | [UVA10812](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1753) | [Beat the Spread!](UVA10812%20-%20Beat%20the%20Spread!) | X | X | X | X |
+|20 | [UVA10812](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1753) | [Beat the Spread!](UVA10812%20-%20Beat%20the%20Spread!) | [連結](UVA10812%20-%20Beat%20the%20Spread!/main.c) | X | X | X |
 |21 | [UVA11349](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2324) | [Symmetric Matrix](UVA11349%20-%20Symmetric%20Matrix) | X | X | X | X |
 |22 | [UVA11461](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2456) | [Square Numbers](UVA11461%20-%20Square%20Numbers) | [連結](UVA11461%20-%20Square%20Numbers/main.c) | X | X | X |
 |23 | [UVA11063](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2004) | [B2-Sequence](UVA11063%20-%20B2-Sequence) | X | X | X | X |
