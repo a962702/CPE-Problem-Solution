@@ -1,7 +1,7 @@
 # CPE 一顆星選集
 |   | UVA 編號 | 題目名稱＆說明 | C 程式碼 | C++ 程式碼 | Java 程式碼 | Python 程式碼 |
 |--:|----------|----------------|:--------:|:----------:|:-----------:|:-------------:|
-| 1 | [UVA10041](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=982) | [Vito's family](UVA10041%20-%20Vito's%20family) | X | X | X | X |
+| 1 | [UVA10041](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=982) | [Vito's family](UVA10041%20-%20Vito's%20family) | [連結](UVA10041%20-%20Vito's%20family/main.c) | X | X | X |
 | 2 | [UVA10055](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=996) | [Hashmat the Brave Warrior](UVA10055%20-%20Hashmat%20the%20brave%20warrior) | [連結](UVA10055%20-%20Hashmat%20the%20brave%20warrior/main.c) | X | X | [連結](UVA10055%20-%20Hashmat%20the%20brave%20warrior/main.py) |
 | 3 | [UVA10035](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=976) | [Primary Arithmetic](UVA10035%20-%20Primary%20Arithmetic) | [連結](UVA10035%20-%20Primary%20Arithmetic/main.c) | X | X | X |
 | 4 | [UVA100](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36) | [The 3n + 1 problem](UVA100%20-%20The%203n%20+%201%20problem) | [連結](UVA100%20-%20The%203n%20+%201%20problem/main.c) | X | [連結](UVA100%20-%20The%203n%20+%201%20problem/main.java) | [連結](UVA100%20-%20The%203n%20+%201%20problem/main.py) |
