@@ -44,8 +44,8 @@
 |41 | [UVA10062](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1003) | [Tell me the frequencies!](UVA10062%20-%20Tell%20me%20the%20frequencies!) | X | X | X | X |
 |42 | [UVA299](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=235) | [Train Swapping](UVA299%20-%20Train%20Swapping) | [連結](UVA299%20-%20Train%20Swapping/main.c) | X | X | X |
 |43 | [UVA10226](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1167) | [Hardwood Species](UVA10226%20-%20Hardwood%20Species) | X | X | X | X |
-|44 | [UVA10189](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130) | [Minesweeper](UVA10409%20-%20Minesweeper) | X | X | X | X |
-|45 | [UVA10409](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1350) | [Die Game](%20-%20Die%20Game) | X | X | X | X |
+|44 | [UVA10189](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130) | [Minesweeper](UVA10189%20-%20Minesweeper) | X | X | X | X |
+|45 | [UVA10409](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1350) | [Die Game](UVA10409%20-%20Die%20Game) | [連結](UVA10409%20-%20Die%20Game/main.c) | X | X | X |
 |46 | [UVA10415](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1356) | [Eb Alto Saxophone Player](UVA10415%20-%20Eb%20Alto%20Saxophone%20Player) | X | X | X | X |
 |47 | [UVA118](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=54) | [Mutant Flatworld Explorers](UVA118%20-%20Mutant%20Flatworld%20Explorers) | X | X | X | X |
 |48 | [UVA11150](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2091) | [Cola](UVA11150%20-%20Cola) | [連結](UVA11150%20-%20Cola/main.c) | X | X | X |
