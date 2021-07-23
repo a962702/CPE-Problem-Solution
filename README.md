@@ -36,7 +36,7 @@
 |33 | [UVA10235](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1176) | [Simply Emirp](UVA10235%20-%20Simply%20Emirp) | X | X | X | X |
 |34 | [UVA10922](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1863) | [2 the 9s](UVA10922%20-%202%20the%209s) | X | X | X | X |
 |35 | [UVA11417](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2412) | [GCD](UVA11417%20-%20GCD) | [連結](UVA11417%20-%20GCD/main.c) | X | X | X |
-|36 | [UVA10908](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1849) | [Largest Square](UVA10908%20-%20Largest%20Square) | X | X | X | X |
+|36 | [UVA10908](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1849) | [Largest Square](UVA10908%20-%20Largest%20Square) | [連結](UVA10908%20-%20Largest%20Square/main.c) | X | X | X |
 |37 | [UVA10221](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1162) | [Satellites](UVA10221%20-%20Satellites) | [連結](UVA10221%20-%20Satellites/main.c) | X | X | X |
 |38 | [UVA10642](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1583) | [Can You Solve It?](UVA10642%20-%20Can%20You%20Solve%20It) | [連結](UVA10642%20-%20Can%20You%20Solve%20It/main.c) | X | X | X |
 |39 | [UVA10242](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1183) | [Fourth Point!!](UVA10242%20-%20Fourth%20Point!!) | [連結](UVA10242%20-%20Fourth%20Point!!/main.c) | X | X | X |
