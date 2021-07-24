@@ -34,7 +34,7 @@
 |31 | [UVA10193](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1134) | [All You Need Is Love!](UVA10193%20-%20All%20You%20Need%20Is%20Love!) | X | X | X | X |
 |32 | [UVA10190](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1131) | [Divide, But Not Quite Conquer!](UVA10190%20-%20Divide,%20But%20Not%20Quite%20Conquer!) | X | X | X | X |
 |33 | [UVA10235](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1176) | [Simply Emirp](UVA10235%20-%20Simply%20Emirp) | X | X | X | X |
-|34 | [UVA10922](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1863) | [2 the 9s](UVA10922%20-%202%20the%209s) | X | X | X | X |
+|34 | [UVA10922](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1863) | [2 the 9s](UVA10922%20-%202%20the%209s) | [連結](UVA10922%20-%202%20the%209s/main.c) | X | X | X |
 |35 | [UVA11417](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2412) | [GCD](UVA11417%20-%20GCD) | [連結](UVA11417%20-%20GCD/main.c) | X | X | X |
 |36 | [UVA10908](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1849) | [Largest Square](UVA10908%20-%20Largest%20Square) | [連結](UVA10908%20-%20Largest%20Square/main.c) | X | X | X |
 |37 | [UVA10221](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1162) | [Satellites](UVA10221%20-%20Satellites) | [連結](UVA10221%20-%20Satellites/main.c) | X | X | X |
